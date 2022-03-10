@@ -40,7 +40,9 @@ body {
     clip-path: ellipse( 700px 200px at 50% 50% );
     z-index: -1;
 }
-
+.subHero_title{
+    font-size: 600%;
+}
 
 /* Nav */
 
